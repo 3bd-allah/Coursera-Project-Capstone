@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import SEO from './components/SEO';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Home Page</h1>
-      <h2>hello, from little lemon</h2>
-    </div>
+    <>
+      <SEO />
+    </>
   );
 }
 
