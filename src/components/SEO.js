@@ -2,7 +2,7 @@
 // i use helmet library for this purpose
 import React from "react";
 import { Helmet } from "react-helmet";
-import logo from '../assets/logo L.jpg'
+import logo from '../assets/logo.jpg'
 const SEO = () => {
   return (
     <>
